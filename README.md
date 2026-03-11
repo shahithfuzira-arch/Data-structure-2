@@ -1,1 +1,1 @@
-# Data-structure-2
+ #include <stdio.h>#define MAX 5Int main() {Int marks[MAX] = {78, 85, 90, 67, 88};Int I;Printf(“Student Marks List:\n”);For(I = 0; I < MAX; i++) {Printf(“%d “, marks[i]);}Return 0;}OUTPUT Student Marks List:78 85 90 67 88
